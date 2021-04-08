@@ -28,6 +28,9 @@
     "doc": "./docs",
     "test": "./test"
   },
+  "publishConfig": {
+    "registry":"https://npm.pkg.github.com"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/wales-and-west-utilities/vuelayers"
