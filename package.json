@@ -1,6 +1,6 @@
 {
-  "name": "vuelayers",
-  "fullname": "VueLayers",
+  "name": "@wales-and-west-utilities/vuelayers",
+  "fullname": "wwu-VueLayers",
   "version": "0.11.34-hotfix",
   "description": "Temporary forked WWU Vue OpenLayers package, to hotfix snapping issue while waiting for new version to settle",
   "author": "Vladimir Vershinin <ghettovoice@gmail.com>",
@@ -31,10 +31,7 @@
   "publishConfig": {
     "registry":"https://npm.pkg.github.com"
   },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/wales-and-west-utilities/vuelayers"
-  },
+  "repository": "git://github.com/wales-and-west-utilities/vuelayers.git",
   "keywords": [
     "vuelayers",
     "vue",
