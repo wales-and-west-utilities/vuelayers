@@ -63,7 +63,7 @@
 
         return new SnapInteraction({
           source,
-          vertex: false
+          vertex: false,
         })
       },
       /**
