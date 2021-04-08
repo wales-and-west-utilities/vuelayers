@@ -1,8 +1,8 @@
 {
   "name": "vuelayers",
   "fullname": "VueLayers",
-  "version": "0.11.34",
-  "description": "Web map Vue components with the power of OpenLayers",
+  "version": "0.11.34-hotfix",
+  "description": "Temporary forked WWU Vue OpenLayers package, to hotfix snapping issue while waiting for new version to settle",
   "author": "Vladimir Vershinin <ghettovoice@gmail.com>",
   "main": "./lib/index.js",
   "module": "./lib/index.js",
@@ -30,7 +30,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/ghettovoice/vuelayers.git"
+    "url": "https://github.com/wales-and-west-utilities/vuelayers"
   },
   "keywords": [
     "vuelayers",
@@ -47,9 +47,9 @@
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ghettovoice/vuelayers/issues"
+    "url": "https://github.com/wales-and-west-utilities/vuelayers/issues"
   },
-  "homepage": "https://github.com/ghettovoice/vuelayers",
+  "homepage": "https://github.com/wales-and-west-utilities/vuelayers",
   "dependencies": {
     "@babel/runtime-corejs3": "^7.7.4",
     "@turf/point-on-feature": "^5.1.5",
